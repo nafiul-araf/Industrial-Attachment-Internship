@@ -6,7 +6,7 @@ Image Recognition project for detecting an is human or not human or blank, or th
 ## Description 
 In this project we develop an image recognition system using [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)(CNN). 
 
-Here we have used both [plain CNN Model](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network 69fd626ee7d4#:~:text=CNN%20is%20a%20type%20of,features%20automatically%20for%20better%20classification.) and also [transfer learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/). 
+Here we have used both [plain CNN Model](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network69fd626ee7d4#:~:text=CNN%20is%20a%20type%20of,features%20automatically%20for%20better%20classification.) and also [transfer learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/). 
 
 In plain CNN model, we have used 5 convolution layers with 2 dense fully connected layers. 
 
