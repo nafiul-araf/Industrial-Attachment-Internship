@@ -11,10 +11,10 @@ Here we have used both [plain CNN Model](https://towardsdatascience.com/understa
 In plain CNN model, we have used 5 convolution layers with 2 dense fully connected layers. 
 
 In transfer learning, we have tried 7 pretrained models including: 
--[VGG16](https://www.geeksforgeeks.org/vgg-16-cnn-model/)
--[Xception](https://keras.io/api/applications/xception/)
--[Inception Version 3](https://paperswithcode.com/method/inception-v3)
--[ResNet50](https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33)
--[DenseNet121](https://towardsdatascience.com/creating-densenet-121-with-tensorflow-edbc08a956d8)
--[DenseNet169](https://docs.openvino.ai/latest/omz_models_model_densenet_169.html)
--[DenseNet201](https://keras.io/api/applications/densenet/)
+- [VGG16](https://www.geeksforgeeks.org/vgg-16-cnn-model/)
+- [Xception](https://keras.io/api/applications/xception/)
+- [Inception Version 3](https://paperswithcode.com/method/inception-v3)
+- [ResNet50](https://towardsdatascience.com/understanding-and-coding-a-resnet-in-keras-446d7ff84d33)
+- [DenseNet121](https://towardsdatascience.com/creating-densenet-121-with-tensorflow-edbc08a956d8)
+- [DenseNet169](https://docs.openvino.ai/latest/omz_models_model_densenet_169.html)
+- [DenseNet201](https://keras.io/api/applications/densenet/)
