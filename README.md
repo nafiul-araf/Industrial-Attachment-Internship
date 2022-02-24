@@ -8,6 +8,8 @@ Image Recognition project for detecting an is human or not human or blank, or th
 
 > Here we have used both [plain CNN Model](https://towardsdatascience.com/understanding-cnn-convolutional-neural-network69fd626ee7d4#:~:text=CNN%20is%20a%20type%20of,features%20automatically%20for%20better%20classification.) and also [transfer learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/). 
 
+> Before going to the model, we have done some [data augmentation](https://www.analyticsvidhya.com/blog/2021/03/image-augmentation-techniques-for-training-deep-learning-models/) to expand our dataset.
+
 > In plain CNN model, we have used 5 convolution layers with 2 dense fully connected layers. 
 
 > In transfer learning, we have tried 7 pretrained models including: 
