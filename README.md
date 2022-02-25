@@ -4,7 +4,7 @@ Image Recognition project for detecting an is human or not human or blank, or th
 ![Demo API](https://github.com/nafiul-araf/Industrial-Attachment-Internship/blob/main/ourput.PNG)
 
 ## Objectives
-- Is the picture human?
+- Is the picture show human?
 - Is the picture blank?
 - Is the picture in right allignment?
 
