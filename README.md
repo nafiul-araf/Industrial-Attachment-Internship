@@ -15,7 +15,7 @@ Image Recognition project for detecting an is human or not human or blank, or th
 
 > Before going to the model, we have done some [data augmentation](https://www.analyticsvidhya.com/blog/2021/03/image-augmentation-techniques-for-training-deep-learning-models/) to expand our dataset.
 
-> In plain CNN model, we have used 5 convolution layers with 2 dense fully connected layers. 
+> In plain CNN model, we have used 5 convolution layers with 2 fully connected dense layers. 
 
 > In transfer learning, we have tried 7 pretrained models including: 
 - [VGG16](https://www.geeksforgeeks.org/vgg-16-cnn-model/)
