@@ -25,3 +25,5 @@ Image Recognition project for detecting an is human or not human or blank, or th
 - [DenseNet121](https://towardsdatascience.com/creating-densenet-121-with-tensorflow-edbc08a956d8)
 - [DenseNet169](https://docs.openvino.ai/latest/omz_models_model_densenet_169.html)
 - [DenseNet201](https://keras.io/api/applications/densenet/)
+
+> Among those models we have got at most 93% accuracy using Xception model and 92% accuracy using DenseNet201 model.
