@@ -31,6 +31,8 @@ Image Recognition project for detecting an is human or not human or blank, or th
 
 ![Loss and Accuracy](https://github.com/nafiul-araf/Industrial-Attachment-Internship/blob/main/Performances/Attachment1.PNG)
 
+- Here's the performance of the Xception Model
 ![CR_Xceptiion](https://github.com/nafiul-araf/Industrial-Attachment-Internship/blob/main/Performances/Attachment2.PNG)
 
+- - Here's the performance of the DenseNet201 Model
 ![CR_DenseNet201](https://github.com/nafiul-araf/Industrial-Attachment-Internship/blob/main/Performances/Attachment3.PNG)
